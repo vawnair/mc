@@ -1,0 +1,38 @@
+[
+  {
+    "uuid": "52923ab9-103f-3017-949a-db7b56955351",
+    "name": "gatohost",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c95eb39e-5477-420e-ac97-c697a0ed66b6",
+    "name": "gatohost",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "aa05ae84-da97-33f5-82af-f28fa9b89e95",
+    "name": "MrEnderman",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d1410530-aa7f-3d31-9906-e696a76b83a8",
+    "name": "bropping",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b9f9b409-307b-4b27-977c-b93e89cd6053",
+    "name": "broppin",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c923f5d9-45e7-394f-a75f-0c9e32e79a5a",
+    "name": "broppin",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

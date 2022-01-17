@@ -1,0 +1,46 @@
+[14-01-2022 13:45:05.128] (CheckManager) Enabled check chat.Spam
+[14-01-2022 13:45:05.133] (CheckManager) Enabled check combat.CombatImpossible
+[14-01-2022 13:45:05.136] (CheckManager) Enabled check combat.Angle
+[14-01-2022 13:45:05.140] (CheckManager) Enabled check combat.Criticals
+[14-01-2022 13:45:05.145] (CheckManager) Enabled check combat.Fastbow
+[14-01-2022 13:45:05.154] (CheckManager) Enabled check combat.FightSpeed
+[14-01-2022 13:45:05.169] (CheckManager) Enabled check combat.Forcefield
+[14-01-2022 13:45:05.172] (CheckManager) Enabled check combat.Knockback
+[14-01-2022 13:45:05.175] (CheckManager) Enabled check combat.Reach
+[14-01-2022 13:45:05.178] (CheckManager) Enabled check combat.Regen
+[14-01-2022 13:45:05.179] (CheckManager) Enabled check combat.FastUse
+[14-01-2022 13:45:05.201] (CheckManager) Enabled check combat.KillauraCombined
+[14-01-2022 13:45:05.208] (CheckManager) Enabled check movement.BadPackets
+[14-01-2022 13:45:05.216] (CheckManager) Enabled check movement.Glide
+[14-01-2022 13:45:05.220] (CheckManager) Enabled check movement.NormalMovements
+[14-01-2022 13:45:05.246] (CheckManager) Enabled check movement.Speed
+[14-01-2022 13:45:05.265] (CheckManager) Enabled check movement.Phase
+[14-01-2022 13:45:05.276] (CheckManager) Enabled check movement.Fly
+[14-01-2022 13:45:05.282] (CheckManager) Enabled check movement.NoFall
+[14-01-2022 13:45:05.285] (CheckManager) Enabled check movement.Climb
+[14-01-2022 13:45:05.288] (CheckManager) Enabled check movement.Jesus
+[14-01-2022 13:45:05.293] (CheckManager) Enabled check movement.ElytraMove
+[14-01-2022 13:45:05.297] (CheckManager) Enabled check movement.BoatFly
+[14-01-2022 13:45:05.300] (CheckManager) Enabled check movement.HeadRoll
+[14-01-2022 13:45:05.307] (CheckManager) Enabled check world.FastBreak
+[14-01-2022 13:45:05.313] (CheckManager) Enabled check world.FastPlace
+[14-01-2022 13:45:05.316] (CheckManager) Enabled check world.Nuker
+[14-01-2022 13:45:05.318] (CheckManager) Enabled check world.NoSwing
+[14-01-2022 13:45:05.322] (CheckManager) Enabled check world.ImpossibleInteract
+[14-01-2022 13:45:05.331] AAC has been enabled
+[14-01-2022 13:45:21.380] (TPSManager) TPS dropped to 17.094017094017094
+[14-01-2022 13:45:21.382] (CheckManager) Disabled check movement.BadPackets
+[14-01-2022 13:45:22.058] (TPSManager) TPS dropped to 17.391304347826086
+[14-01-2022 13:45:22.710] (CheckManager) Enabled check movement.BadPackets
+[14-01-2022 13:46:01.121] (TPSManager) TPS dropped to 17.391304347826086
+[14-01-2022 13:46:01.122] (CheckManager) Disabled check movement.BadPackets
+[14-01-2022 13:46:01.772] (CheckManager) Enabled check movement.BadPackets
+[14-01-2022 13:50:08.424] (TPSManager) TPS dropped to 18.181818181818183
+[14-01-2022 13:50:50.064] (TPSManager) TPS dropped to 17.77777777777778
+[14-01-2022 13:50:50.747] (TPSManager) TPS dropped to 17.167381974248926
+[14-01-2022 13:50:50.748] (CheckManager) Disabled check movement.BadPackets
+[14-01-2022 13:50:51.399] (CheckManager) Enabled check movement.BadPackets
+[14-01-2022 13:50:52.729] (TPSManager) TPS dropped to 17.316017316017316
+[14-01-2022 13:50:52.730] (CheckManager) Disabled check movement.BadPackets
+[14-01-2022 13:50:53.381] (CheckManager) Enabled check movement.BadPackets
+[14-01-2022 13:52:03.693] (TPSManager) TPS dropped to 18.181818181818183

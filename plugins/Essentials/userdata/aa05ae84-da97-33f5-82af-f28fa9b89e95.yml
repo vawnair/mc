@@ -1,0 +1,22 @@
+lastAccountName: MrEnderman
+timestamps:
+  login: 1642156518260
+  kits:
+    hvh: 1642156640462
+  lastteleport: 1642156726944
+  logout: 1642159744072
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 1342.0330312425037
+  y: 90.0
+  z: -202.30000001192093
+  yaw: -84.63709
+  pitch: 11.689569
+logoutlocation:
+  world: world
+  x: 322.9437778592571
+  y: 6.0
+  z: 28.513265276541084
+  yaw: 52.35034
+  pitch: -60.149952

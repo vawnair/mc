@@ -1,0 +1,286 @@
+[13:44:56] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[13:44:56] [Server thread/INFO]: Loading properties
+[13:44:56] [Server thread/INFO]: Default game type: SURVIVAL
+[13:44:56] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-21fe707-741a1bd (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[13:44:56] [Server thread/INFO]: Debug logging is disabled
+[13:44:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:44:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:44:56] [Server thread/INFO]: Generating keypair
+[13:44:56] [Server thread/INFO]: Starting Minecraft server on 192.168.1.5:25575
+[13:44:56] [Server thread/INFO]: Using default channel type
+[13:44:56] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[13:44:57] [Server thread/ERROR]: Ambiguous plugin name `ViaVersion' for files `plugins\ViaVersion.jar' and `plugins\ViaVersion-3.2.0.jar' in `plugins'
+[13:44:57] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:44:57] [Server thread/ERROR]: Could not load 'plugins\ViaRewind-1.5.3.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: java.lang.NoClassDefFoundError: us/myles/ViaVersion/api/protocol/Protocol
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:135) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:329) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:251) [server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugins(CraftServer.java:292) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:198) [server.jar:git-Spigot-21fe707-741a1bd]
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525) [server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoClassDefFoundError: us/myles/ViaVersion/api/protocol/Protocol
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:64) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:131) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: us.myles.ViaVersion.api.protocol.Protocol
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:471) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:101) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:589) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:398) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:64) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:131) ~[server.jar:git-Spigot-21fe707-741a1bd]
+	... 6 more
+[13:44:57] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[13:44:57] [Server thread/INFO]: [Chairs] Loading Chairs v4.11
+[13:44:57] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.1.1
+[13:44:57] [Server thread/INFO]: [ViaVersion] ViaVersion 4.1.1 is now loaded, injecting!
+[13:44:57] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[13:44:57] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[13:44:58] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[13:44:58] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[13:44:58] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[13:44:58] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[13:44:58] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[13:44:58] [Via-Mappingloader-7/INFO]: [ViaVersion] Loading 1.17 -> 1.18 mappings...
+[13:44:58] [Server thread/INFO]: [ComboPlugin] Loading ComboPlugin v1.0
+[13:44:58] [Server thread/INFO]: [OpenInv] Loading OpenInv v3.2.0
+[13:44:58] [Server thread/INFO]: [Essentials] Loading Essentials v2.18.0.0
+[13:44:58] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v3.6.5
+[13:44:58] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[13:44:58] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.2.2-SNAPSHOT;8eeab68
+[13:44:58] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.3
+[13:44:58] [Server thread/INFO]: [smpreflexanticheat] Loading smpreflexanticheat v2.1.1
+[13:44:58] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v3.6.5
+[13:44:58] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[13:44:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:44:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:44:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:44:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:44:58] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:44:58] [Server thread/INFO]: Preparing level "world"
+[13:44:58] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:44:58] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:44:58] [Server thread/INFO]: Clear tick list: false
+[13:44:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:44:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:44:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:44:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:44:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:44:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:44:58] [Server thread/INFO]: View Distance: 8
+[13:44:58] [Server thread/INFO]: Anti X-Ray: true
+[13:44:58] [Server thread/INFO]: 	Engine Mode: 1
+[13:44:58] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:44:58] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:44:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:44:58] [Server thread/INFO]: Mob Spawn Range: 4
+[13:44:58] [Server thread/INFO]: Structure Info Saving: true
+[13:44:58] [Server thread/INFO]: Max Entity Collisions: 8
+[13:44:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:44:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:44:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:44:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:44:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:44:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:44:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:44:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:44:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:44:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:44:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:44:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:44:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:44:58] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:44:58] [Server thread/INFO]: Max TNT Explosions: 100
+[13:44:58] [Server thread/INFO]: Random Lighting Updates: false
+[13:44:59] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:44:59] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:44:59] [Server thread/INFO]: Clear tick list: false
+[13:44:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:44:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:44:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:44:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:44:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:44:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:44:59] [Server thread/INFO]: View Distance: 8
+[13:44:59] [Server thread/INFO]: Anti X-Ray: true
+[13:44:59] [Server thread/INFO]: 	Engine Mode: 1
+[13:44:59] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:44:59] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:44:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:44:59] [Server thread/INFO]: Mob Spawn Range: 4
+[13:44:59] [Server thread/INFO]: Structure Info Saving: true
+[13:44:59] [Server thread/INFO]: Max Entity Collisions: 8
+[13:44:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:44:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:44:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:44:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:44:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:44:59] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:44:59] [Server thread/INFO]: Max TNT Explosions: 100
+[13:44:59] [Server thread/INFO]: Random Lighting Updates: false
+[13:44:59] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:44:59] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:44:59] [Server thread/INFO]: Clear tick list: false
+[13:44:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:44:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:44:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:44:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:44:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:44:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:44:59] [Server thread/INFO]: View Distance: 8
+[13:44:59] [Server thread/INFO]: Anti X-Ray: true
+[13:44:59] [Server thread/INFO]: 	Engine Mode: 1
+[13:44:59] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:44:59] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:44:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:44:59] [Server thread/INFO]: Mob Spawn Range: 4
+[13:44:59] [Server thread/INFO]: Structure Info Saving: true
+[13:44:59] [Server thread/INFO]: Max Entity Collisions: 8
+[13:44:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:44:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:44:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:44:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:44:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:44:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:44:59] [Server thread/INFO]: Sending up to 10 chunks per packet
+[13:44:59] [Server thread/INFO]: Max TNT Explosions: 100
+[13:44:59] [Server thread/INFO]: Random Lighting Updates: false
+[13:44:59] [Server thread/INFO]: Preparing start region for level 0 (Seed: -1419368038037443452)
+[13:45:00] [Server thread/INFO]: Preparing spawn area: 55%
+[13:45:00] [Server thread/INFO]: Preparing start region for level 1 (Seed: -1419368038037443452)
+[13:45:01] [Server thread/INFO]: Preparing spawn area: 47%
+[13:45:02] [Server thread/INFO]: Preparing start region for level 2 (Seed: -1419368038037443452)
+[13:45:02] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[13:45:02] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:45:02] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[13:45:02] [Server thread/INFO]: [Chairs] Enabling Chairs v4.11
+[13:45:02] [Server thread/WARN]: com.cnaude.chairs.vehiclearrow.NMSAccessException: ChairsReloaded is not compatible with your server version
+[13:45:02] [Server thread/WARN]: 	at com.cnaude.chairs.vehiclearrow.NMSAccess.setupChairsArrow(NMSAccess.java:20)
+[13:45:02] [Server thread/WARN]: 	at com.cnaude.chairs.core.Chairs.onEnable(Chairs.java:75)
+[13:45:02] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+[13:45:02] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[13:45:02] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[13:45:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:357)
+[13:45:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:317)
+[13:45:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:414)
+[13:45:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:378)
+[13:45:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:333)
+[13:45:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:263)
+[13:45:02] [Server thread/WARN]: 	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+[13:45:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[13:45:02] [Server thread/INFO]: [Chairs] Disabling Chairs v4.11
+[13:45:02] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.1.1
+[13:45:02] [Server thread/INFO]: [ComboPlugin] Enabling ComboPlugin v1.0
+[13:45:02] [Server thread/INFO]: [OpenInv] Enabling OpenInv v3.2.0
+[13:45:02] [Server thread/INFO]: [OpenInv] Your version of CraftBukkit (v1_8_R3) is not supported.
+[13:45:02] [Server thread/INFO]: [OpenInv] If this version is a recent release, check for an update.
+[13:45:02] [Server thread/INFO]: [OpenInv] If this is an older version, ensure that you've downloaded the legacy support version.
+[13:45:02] [Server thread/INFO]: [OpenInv] Disabling OpenInv v3.2.0
+[13:45:02] [Server thread/INFO]: [Essentials] Enabling Essentials v2.18.0.0
+[13:45:02] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[13:45:02] [Server thread/INFO]: No kits found to migrate.
+[13:45:03] [Server thread/INFO]: Loaded 852 items from items.csv.
+[13:45:03] [Server thread/INFO]: Using locale en_US
+[13:45:03] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:45:03] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:45:03] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[13:45:03] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.2.2-SNAPSHOT;8eeab68
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[13:45:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[13:45:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[13:45:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[13:45:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[13:45:03] [Server thread/INFO]: [WorldGuard] Loading region data...
+[13:45:03] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.3
+[13:45:03] [Server thread/INFO]: [0;31;1m[Holographic Displays] Detected old version of ProtocolLib, support disabled. You must use ProtocolLib 4.1 or higher.[m
+[13:45:03] [Server thread/INFO]: [smpreflexanticheat] Enabling smpreflexanticheat v2.1.1
+[13:45:03] [Server thread/INFO]: ???????????????
+[13:45:03] [Server thread/WARN]: [smpreflexanticheat] [AAC] IMPORTANT
+[13:45:03] [Server thread/WARN]: [smpreflexanticheat] [AAC] IMPORTANT
+[13:45:03] [Server thread/WARN]: [smpreflexanticheat] [AAC] THIS IS THE 1.10 PRE-RELEASE FOR AAC. EXPECT BUGS TO BE FIXED
+[13:45:03] [Server thread/WARN]: [smpreflexanticheat] [AAC] IMPORTANT
+[13:45:03] [Server thread/WARN]: [smpreflexanticheat] [AAC] IMPORTANT
+[13:45:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:45:03] [Server thread/INFO]: Done (5.059s)! For help, type "help" or "?"
+[13:45:04] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x (47)
+[13:45:04] [Server thread/WARN]: [ViaVersion] This version of Minecraft is extremely outdated and support for it has reached its end of life. You will still be able to run Via on this Minecraft version, but we are unlikely to provide any further fixes or help with problems specific to legacy Minecraft versions. Please consider updating to give your players a better experience and to avoid issues that have long been fixed.
+[13:45:04] [Server thread/WARN]: [ViaVersion] You are running an outdated Java version, please consider updating it to at least Java 17 (your version is 11.0.12). At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[13:45:04] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] Beginning Enable...
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] Checking config file...
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check chat.Spam
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.CombatImpossible
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.Angle
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.Criticals
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.Fastbow
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.FightSpeed
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.Forcefield
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.Knockback
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.Reach
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.Regen
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.FastUse
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check combat.KillauraCombined
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.BadPackets
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.Glide
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.NormalMovements
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.Speed
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.Phase
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.Fly
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.NoFall
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.Climb
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.Jesus
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.ElytraMove
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.BoatFly
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check movement.HeadRoll
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check world.FastBreak
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check world.FastPlace
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check world.Nuker
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check world.NoSwing
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Enabling check world.ImpossibleInteract
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] (CheckManager) Check world.PlayerRadar is disabled
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] Starting API...
+[13:45:05] [Server thread/INFO]: [smpreflexanticheat] AAC has been enabled.
+[13:45:05] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v3.0.0
+[13:45:05] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[13:45:05] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/projects/holographic-displays
+[13:45:05] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:49:47] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:49:58] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:50:00] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:50:01] [Server thread/INFO]: CONSOLE issued server command: /help 
+[13:50:01] [Server thread/INFO]: To view help from the console, type '?'.[m
+[13:50:34] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:50:49] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:51:29] [Server thread/INFO]: Unknown command. Type "/help" for help.[m

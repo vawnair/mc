@@ -1,0 +1,49 @@
+[10-01-2022 16:52:58.470] (CheckManager) Enabled check chat.Spam
+[10-01-2022 16:52:58.472] (CheckManager) Enabled check combat.CombatImpossible
+[10-01-2022 16:52:58.473] (CheckManager) Enabled check combat.Angle
+[10-01-2022 16:52:58.475] (CheckManager) Enabled check combat.Criticals
+[10-01-2022 16:52:58.477] (CheckManager) Enabled check combat.Fastbow
+[10-01-2022 16:52:58.480] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 16:52:58.485] (CheckManager) Enabled check combat.Forcefield
+[10-01-2022 16:52:58.488] (CheckManager) Enabled check combat.Knockback
+[10-01-2022 16:52:58.490] (CheckManager) Enabled check combat.Reach
+[10-01-2022 16:52:58.491] (CheckManager) Enabled check combat.Regen
+[10-01-2022 16:52:58.492] (CheckManager) Enabled check combat.FastUse
+[10-01-2022 16:52:58.561] (CheckManager) Enabled check combat.KillauraCombined
+[10-01-2022 16:52:58.564] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 16:52:58.568] (CheckManager) Enabled check movement.Glide
+[10-01-2022 16:52:58.570] (CheckManager) Enabled check movement.NormalMovements
+[10-01-2022 16:52:58.583] (CheckManager) Enabled check movement.Speed
+[10-01-2022 16:52:58.589] (CheckManager) Enabled check movement.Phase
+[10-01-2022 16:52:58.592] (CheckManager) Enabled check movement.Fly
+[10-01-2022 16:52:58.594] (CheckManager) Enabled check movement.NoFall
+[10-01-2022 16:52:58.595] (CheckManager) Enabled check movement.Climb
+[10-01-2022 16:52:58.596] (CheckManager) Enabled check movement.Jesus
+[10-01-2022 16:52:58.653] (CheckManager) Enabled check movement.ElytraMove
+[10-01-2022 16:52:58.655] (CheckManager) Enabled check movement.BoatFly
+[10-01-2022 16:52:58.656] (CheckManager) Enabled check movement.HeadRoll
+[10-01-2022 16:52:58.658] (CheckManager) Enabled check world.FastBreak
+[10-01-2022 16:52:58.660] (CheckManager) Enabled check world.FastPlace
+[10-01-2022 16:52:58.661] (CheckManager) Enabled check world.Nuker
+[10-01-2022 16:52:58.662] (CheckManager) Enabled check world.NoSwing
+[10-01-2022 16:52:58.664] (CheckManager) Enabled check world.ImpossibleInteract
+[10-01-2022 16:52:58.667] AAC has been enabled
+[10-01-2022 16:53:18.777] (TPSManager) TPS dropped to 10.025062656641603
+[10-01-2022 16:53:18.778] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 16:53:18.779] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 16:53:18.779] (CheckManager) Disabled check combat.Reach
+[10-01-2022 16:53:18.779] (CheckManager) Disabled check combat.Angle
+[10-01-2022 16:53:19.204] (CheckManager) Enabled check combat.Reach
+[10-01-2022 16:53:19.204] (CheckManager) Enabled check combat.Angle
+[10-01-2022 16:53:19.205] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 16:53:19.206] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 17:12:41.628] (TPSManager) TPS dropped to 18.264840182648403
+[10-01-2022 17:15:18.440] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:1
+[10-01-2022 17:15:18.532] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:19.8] VL:2
+[10-01-2022 17:15:18.683] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:3
+[10-01-2022 17:15:18.731] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:19.9] VL:4
+[10-01-2022 17:15:18.781] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:5
+[10-01-2022 17:15:18.833] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:6
+[10-01-2022 17:15:18.882] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:19.7] VL:7
+[10-01-2022 17:15:18.932] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:8
+[10-01-2022 17:15:18.982] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:19.9] VL:9

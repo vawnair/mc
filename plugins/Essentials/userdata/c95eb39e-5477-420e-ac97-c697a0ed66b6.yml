@@ -1,0 +1,28 @@
+lastAccountName: gatohost
+timestamps:
+  login: 1641967492566
+  logout: 1641967553008
+  lastteleport: 1641834970487
+  kits:
+    dtools: 1641819753239
+ipAddress: 197.250.218.178
+lastlocation:
+  world: world
+  x: 1402.03489982277
+  y: 63.0
+  z: -232.4455150238136
+  yaw: -333.46567
+  pitch: 16.230873
+logoutlocation:
+  world: world
+  x: 1921.757428746843
+  y: 62.9999999999999
+  z: -967.4422579564348
+  yaw: 65.83905
+  pitch: 80.000015
+unlimited:
+- POTION
+- ENDER_PEARL
+- COBBLESTONE
+afk: false
+godmode: true

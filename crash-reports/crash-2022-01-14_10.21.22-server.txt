@@ -1,0 +1,46 @@
+---- Minecraft Crash Report ----
+// Sorry :(
+
+Time: 1/14/22 10:21 AM
+Description: Exception in server tick loop
+
+java.net.UnknownHostException: null: Name or service not known
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(InetAddress.java:929)
+	at java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1324)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1277)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1193)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1127)
+	at java.net.InetAddress.getByName(InetAddress.java:1077)
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:169)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:525)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.8
+	Operating System: Linux (amd64) version 5.11.0-41-generic
+	Java Version: 1.8.0_312, Temurin
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
+	Memory: 20804512 bytes (19 MB) / 59330560 bytes (56 MB) up to 1063256064 bytes (1014 MB)
+	JVM Flags: 18 total; -Xmx1024M -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	CraftBukkit Information: 
+   Running: 
+   Failed to handle CraftCrashReport:
+java.lang.NullPointerException
+	at org.bukkit.Bukkit.getName(Bukkit.java:87)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftCrashReport.call(CraftCrashReport.java:20)
+	at net.minecraft.server.v1_8_R3.CrashReportSystemDetails.a(SourceFile:78)
+	at net.minecraft.server.v1_8_R3.CrashReport.h(CrashReport.java:127)
+	at net.minecraft.server.v1_8_R3.CrashReport.<init>(CrashReport.java:34)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:577)
+	at java.lang.Thread.run(Thread.java:748)
+
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'Spigot'
+	Type: Dedicated Server (map_server.txt)

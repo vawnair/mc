@@ -1,0 +1,27 @@
+receptie:
+  location: world, 1408.700, 64.534, -249.495
+  lines:
+  - '&lReceptie'
+  - '&8&l david dinu.'
+darviditunu:
+  location: world, 1424.426, 65.200, -255.729
+  lines:
+  - '&4&l hotel splendid! &rdavid &6dinu. &r &4&lBESINI spartelacuptor &r &k1235'
+mina:
+  location: world, 1388.982, 63.200, -280.627
+  lines:
+  - '&5&lmina'
+  - /
+  - '&5subsol'
+daviddinu:
+  location: world, 1344.041, 67.000, -232.285
+  lines:
+  - '&l Receptie. &r &5&l David Dinu.'
+'1':
+  location: world, 1441.700, 118.155, -193.797
+  lines:
+  - secret! &4&l go right..
+piscina:
+  location: world, 1165.543, 91.200, -248.300
+  lines:
+  - '&5 Piscina!'

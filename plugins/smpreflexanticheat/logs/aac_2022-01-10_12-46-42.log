@@ -1,0 +1,683 @@
+[10-01-2022 12:46:43.912] (CheckManager) Enabled check chat.Spam
+[10-01-2022 12:46:43.982] (CheckManager) Enabled check combat.CombatImpossible
+[10-01-2022 12:46:43.984] (CheckManager) Enabled check combat.Angle
+[10-01-2022 12:46:43.985] (CheckManager) Enabled check combat.Criticals
+[10-01-2022 12:46:43.987] (CheckManager) Enabled check combat.Fastbow
+[10-01-2022 12:46:43.990] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 12:46:43.995] (CheckManager) Enabled check combat.Forcefield
+[10-01-2022 12:46:43.997] (CheckManager) Enabled check combat.Knockback
+[10-01-2022 12:46:43.998] (CheckManager) Enabled check combat.Reach
+[10-01-2022 12:46:43.999] (CheckManager) Enabled check combat.Regen
+[10-01-2022 12:46:43.999] (CheckManager) Enabled check combat.FastUse
+[10-01-2022 12:46:44.008] (CheckManager) Enabled check combat.KillauraCombined
+[10-01-2022 12:46:44.011] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 12:46:44.014] (CheckManager) Enabled check movement.Glide
+[10-01-2022 12:46:44.016] (CheckManager) Enabled check movement.NormalMovements
+[10-01-2022 12:46:44.093] (CheckManager) Enabled check movement.Speed
+[10-01-2022 12:46:44.098] (CheckManager) Enabled check movement.Phase
+[10-01-2022 12:46:44.101] (CheckManager) Enabled check movement.Fly
+[10-01-2022 12:46:44.103] (CheckManager) Enabled check movement.NoFall
+[10-01-2022 12:46:44.104] (CheckManager) Enabled check movement.Climb
+[10-01-2022 12:46:44.106] (CheckManager) Enabled check movement.Jesus
+[10-01-2022 12:46:44.107] (CheckManager) Enabled check movement.ElytraMove
+[10-01-2022 12:46:44.108] (CheckManager) Enabled check movement.BoatFly
+[10-01-2022 12:46:44.110] (CheckManager) Enabled check movement.HeadRoll
+[10-01-2022 12:46:44.112] (CheckManager) Enabled check world.FastBreak
+[10-01-2022 12:46:44.113] (CheckManager) Enabled check world.FastPlace
+[10-01-2022 12:46:44.183] (CheckManager) Enabled check world.Nuker
+[10-01-2022 12:46:44.184] (CheckManager) Enabled check world.NoSwing
+[10-01-2022 12:46:44.185] (CheckManager) Enabled check world.ImpossibleInteract
+[10-01-2022 12:46:44.189] AAC has been enabled
+[10-01-2022 12:46:45.414] (TPSManager) TPS dropped to 3.0326004548900682
+[10-01-2022 12:46:45.416] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 12:46:45.416] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 12:46:45.417] (CheckManager) Disabled check combat.Reach
+[10-01-2022 12:46:45.417] (CheckManager) Disabled check combat.Angle
+[10-01-2022 12:46:45.489] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 12:46:45.490] (CheckManager) Enabled check combat.Angle
+[10-01-2022 12:46:45.491] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 12:46:45.491] (CheckManager) Enabled check combat.Reach
+[10-01-2022 12:46:47.987] (TPSManager) TPS dropped to 17.857142857142858
+[10-01-2022 12:57:41.336] (TPSManager) TPS dropped to 10.554089709762533
+[10-01-2022 12:57:41.337] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 12:57:41.337] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 12:57:41.337] (CheckManager) Disabled check combat.Reach
+[10-01-2022 12:57:41.337] (CheckManager) Disabled check combat.Angle
+[10-01-2022 12:57:41.894] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 12:57:41.894] (CheckManager) Enabled check combat.Angle
+[10-01-2022 12:57:41.895] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 12:57:41.895] (CheckManager) Enabled check combat.Reach
+[10-01-2022 12:58:35.284] (TPSManager) TPS dropped to 16.129032258064516
+[10-01-2022 12:58:35.285] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 12:58:35.285] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 12:58:35.285] (CheckManager) Disabled check combat.Reach
+[10-01-2022 12:58:35.285] (CheckManager) Disabled check combat.Angle
+[10-01-2022 12:58:35.889] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 12:58:35.890] (CheckManager) Enabled check combat.Angle
+[10-01-2022 12:58:35.890] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 12:58:35.891] (CheckManager) Enabled check combat.Reach
+[10-01-2022 13:09:05.369] (TPSManager) TPS dropped to 9.685230024213075
+[10-01-2022 13:09:05.370] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 13:09:05.370] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 13:09:05.370] (CheckManager) Disabled check combat.Reach
+[10-01-2022 13:09:05.370] (CheckManager) Disabled check combat.Angle
+[10-01-2022 13:09:05.877] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 13:09:05.878] (CheckManager) Enabled check combat.Angle
+[10-01-2022 13:09:05.879] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 13:09:05.879] (CheckManager) Enabled check combat.Reach
+[10-01-2022 13:11:31.483] (TPSManager) TPS dropped to 18.433179723502302
+[10-01-2022 13:17:35.005] gatohost failed NoFall: Claimed to be on the ground midair [ping:117 tps:20.0] VL:1
+[10-01-2022 13:17:46.798] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:19.9] VL:2
+[10-01-2022 13:19:47.911] gatohost failed NoFall: Claimed to be on the ground midair [ping:115 tps:20.0] VL:3
+[10-01-2022 13:20:19.560] gatohost failed NoFall: Claimed to be on the ground midair [ping:112 tps:20.0] VL:4
+[10-01-2022 13:20:26.212] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:5
+[10-01-2022 13:20:26.311] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:6
+[10-01-2022 13:20:28.412] broppin failed NoFall: Claimed to be on the ground midair [ping:128 tps:19.9] VL:1
+[10-01-2022 13:20:30.261] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:7
+[10-01-2022 13:21:16.818] broppin failed NoFall: Claimed to be on the ground midair [ping:126 tps:20.0] VL:2
+[10-01-2022 13:24:11.728] gatohost failed NoFall: Claimed to be on the ground midair [ping:109 tps:20.0] VL:8
+[10-01-2022 13:26:30.636] gatohost failed NoFall: Claimed to be on the ground midair [ping:119 tps:20.0] VL:9
+[10-01-2022 13:39:43.895] (TPSManager) TPS dropped to 18.01801801801802
+[10-01-2022 13:42:34.324] (TPSManager) TPS dropped to 11.142061281337048
+[10-01-2022 13:42:34.325] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 13:42:34.325] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 13:42:34.325] (CheckManager) Disabled check combat.Reach
+[10-01-2022 13:42:34.325] (CheckManager) Disabled check combat.Angle
+[10-01-2022 13:42:34.879] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 13:42:34.879] (CheckManager) Enabled check combat.Angle
+[10-01-2022 13:42:34.879] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 13:42:34.880] (CheckManager) Enabled check combat.Reach
+[10-01-2022 13:45:13.095] (TPSManager) TPS dropped to 18.264840182648403
+[10-01-2022 13:47:43.234] (TPSManager) TPS dropped to 0.1330671989354624
+[10-01-2022 13:47:43.234] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 13:47:43.234] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 13:47:43.234] (CheckManager) Disabled check combat.Reach
+[10-01-2022 13:47:43.234] (CheckManager) Disabled check combat.Angle
+[10-01-2022 13:47:43.292] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 13:47:43.292] (CheckManager) Enabled check combat.Angle
+[10-01-2022 13:47:43.293] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 13:47:43.293] (CheckManager) Enabled check combat.Reach
+[10-01-2022 13:47:47.625] (TPSManager) TPS dropped to 4.3383947939262475
+[10-01-2022 13:47:47.625] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 13:47:47.625] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 13:47:47.625] (CheckManager) Disabled check combat.Reach
+[10-01-2022 13:47:47.625] (CheckManager) Disabled check combat.Angle
+[10-01-2022 13:47:47.647] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 13:47:47.647] (CheckManager) Enabled check combat.Angle
+[10-01-2022 13:47:47.648] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 13:47:47.648] (CheckManager) Enabled check combat.Reach
+[10-01-2022 13:51:59.282] (TPSManager) TPS dropped to 4.836759371221282
+[10-01-2022 13:51:59.283] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 13:51:59.283] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 13:51:59.283] (CheckManager) Disabled check combat.Reach
+[10-01-2022 13:51:59.283] (CheckManager) Disabled check combat.Angle
+[10-01-2022 13:51:59.395] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 13:51:59.396] (CheckManager) Enabled check combat.Angle
+[10-01-2022 13:51:59.396] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 13:51:59.396] (CheckManager) Enabled check combat.Reach
+[10-01-2022 13:54:28.119] (TPSManager) TPS dropped to 1.4657383657017222
+[10-01-2022 13:54:28.119] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 13:54:28.120] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 13:54:28.120] (CheckManager) Disabled check combat.Reach
+[10-01-2022 13:54:28.120] (CheckManager) Disabled check combat.Angle
+[10-01-2022 13:54:28.187] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 13:54:28.187] (CheckManager) Enabled check combat.Angle
+[10-01-2022 13:54:28.188] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 13:54:28.188] (CheckManager) Enabled check combat.Reach
+[10-01-2022 13:55:30.345] (TPSManager) TPS dropped to 4.7225501770956315
+[10-01-2022 13:55:30.345] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 13:55:30.345] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 13:55:30.345] (CheckManager) Disabled check combat.Reach
+[10-01-2022 13:55:30.345] (CheckManager) Disabled check combat.Angle
+[10-01-2022 13:55:30.413] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 13:55:30.414] (CheckManager) Enabled check combat.Angle
+[10-01-2022 13:55:30.414] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 13:55:30.414] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:00:38.171] (TPSManager) TPS dropped to 4.036326942482341
+[10-01-2022 14:00:38.172] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:00:38.172] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:00:38.172] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:00:38.172] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:00:38.189] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:00:38.190] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:00:38.190] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:00:38.190] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:01:41.813] (TPSManager) TPS dropped to 4.561003420752566
+[10-01-2022 14:01:41.813] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:01:41.813] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:01:41.813] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:01:41.813] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:01:41.826] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:01:41.827] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:01:41.827] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:01:41.827] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:02:58.696] (TPSManager) TPS dropped to 3.787878787878788
+[10-01-2022 14:02:58.696] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:02:58.696] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:02:58.696] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:02:58.697] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:02:58.711] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:02:58.711] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:02:58.711] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:02:58.712] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:03:20.748] (TPSManager) TPS dropped to 4.11522633744856
+[10-01-2022 14:03:20.749] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:03:20.749] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:03:20.749] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:03:20.749] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:03:20.765] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:03:20.766] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:03:20.766] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:03:20.766] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:04:55.127] (TPSManager) TPS dropped to 4.166666666666667
+[10-01-2022 14:04:55.127] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:04:55.127] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:04:55.127] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:04:55.127] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:04:55.139] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:04:55.139] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:04:55.139] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:04:55.140] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:05:48.804] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:99 tps:19.9] VL:1
+[10-01-2022 14:05:49.396] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:99 tps:20.0] VL:2
+[10-01-2022 14:05:49.595] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:99 tps:20.0] VL:3
+[10-01-2022 14:05:50.197] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:90 tps:20.0] VL:4
+[10-01-2022 14:05:50.845] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:90 tps:20.0] VL:5
+[10-01-2022 14:05:50.945] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:90 tps:20.0] VL:6
+[10-01-2022 14:05:51.145] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:90 tps:20.0] VL:7
+[10-01-2022 14:05:51.496] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:90 tps:20.0] VL:8
+[10-01-2022 14:05:51.895] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:82 tps:19.23] VL:9
+[10-01-2022 14:05:51.896] XxChillGamerxX failed Criticals: tried to perform a critical hit whilst on the ground [ping:82 tps:19.23] VL:2
+[10-01-2022 14:05:52.730] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:82 tps:20.0] VL:10
+[10-01-2022 14:05:52.730] XxChillGamerxX failed Criticals: tried to perform a critical hit whilst on the ground [ping:82 tps:20.0] VL:4
+[10-01-2022 14:05:52.735] (Punisher) ->combat.Criticals: Dispatching command aacstaffnotify XxChillGamerxX is suspected for Criticals (ping = 82, tps = 20.0)
+[10-01-2022 14:05:52.739] XxChillGamerxX failed NoSwing: didn't swing arm (block break) [ping:82 tps:20.0] VL:1
+[10-01-2022 14:05:52.742] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:82 tps:4.04] VL:11
+[10-01-2022 14:05:52.743] XxChillGamerxX failed Criticals: tried to perform a critical hit whilst on the ground [ping:82 tps:4.04] VL:6
+[10-01-2022 14:05:52.745] XxChillGamerxX failed CombatImpossible: Tried to attack whilst using an item [ping:82 tps:4.26] VL:12
+[10-01-2022 14:05:52.745] XxChillGamerxX failed Criticals: tried to perform a critical hit whilst on the ground [ping:82 tps:4.26] VL:8
+[10-01-2022 14:05:52.746] XxChillGamerxX failed NoSwing: didn't swing arm (attack) [ping:82 tps:4.26] VL:2
+[10-01-2022 14:05:52.813] (Punisher) ->combat.Criticals: Dispatching command aackick XxChillGamerxX criticals aren't allowed here :/
+[10-01-2022 14:06:02.214] (TPSManager) TPS dropped to 17.937219730941703
+[10-01-2022 14:08:38.375] (TPSManager) TPS dropped to 4.310344827586207
+[10-01-2022 14:08:38.375] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:08:38.376] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:08:38.376] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:08:38.376] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:08:38.386] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:08:38.386] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:08:38.387] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:08:38.387] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:09:14.056] (TPSManager) TPS dropped to 4.932182490752158
+[10-01-2022 14:09:14.057] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:09:14.057] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:09:14.057] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:09:14.057] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:09:14.168] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:09:14.169] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:09:14.169] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:09:14.169] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:09:38.380] (TPSManager) TPS dropped to 3.9761431411530817
+[10-01-2022 14:09:38.380] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:09:38.381] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:09:38.381] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:09:38.381] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:09:38.395] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:09:38.395] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:09:38.396] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:09:38.396] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:09:47.501] gatohost failed NoFall: Claimed to be on the ground midair [ping:122 tps:20.0] VL:10
+[10-01-2022 14:09:47.751] gatohost failed NoFall: Claimed to be on the ground midair [ping:122 tps:20.0] VL:11
+[10-01-2022 14:09:49.023] (Punisher) ->movement.NoFall: Dispatching command aacstaffnotify gatohost is suspected for NoFall hacks (ping = 122, tps = 20.0)
+[10-01-2022 14:10:18.144] gatohost failed NoFall: Claimed to be on the ground midair [ping:117 tps:20.0] VL:12
+[10-01-2022 14:10:33.643] (TPSManager) TPS dropped to 17.391304347826086
+[10-01-2022 14:10:33.643] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:10:34.264] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:10:37.006] (TPSManager) TPS dropped to 3.9721946375372394
+[10-01-2022 14:10:37.006] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:10:37.006] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:10:37.006] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:10:37.006] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:10:37.019] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:10:37.020] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:10:37.020] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:10:37.020] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:11:07.677] (TPSManager) TPS dropped to 3.4812880765883376
+[10-01-2022 14:11:07.677] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:11:07.677] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:11:07.677] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:11:07.677] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:11:07.692] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:11:07.693] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:11:07.694] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:11:07.694] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:11:33.471] (TPSManager) TPS dropped to 4.366812227074236
+[10-01-2022 14:11:33.472] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:11:33.472] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:11:33.472] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:11:33.472] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:11:33.490] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:11:33.490] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:11:33.490] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:11:33.491] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:12:31.405] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:13
+[10-01-2022 14:12:40.594] (TPSManager) TPS dropped to 4.259850905218317
+[10-01-2022 14:12:40.595] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:12:40.595] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:12:40.595] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:12:40.595] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:12:40.606] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:12:40.607] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:12:40.607] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:12:40.607] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:13:57.491] (TPSManager) TPS dropped to 3.5938903863432166
+[10-01-2022 14:13:57.491] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:13:57.491] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:13:57.491] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:13:57.491] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:13:57.506] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:13:57.506] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:13:57.507] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:13:57.507] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:14:50.742] (TPSManager) TPS dropped to 3.9100684261974585
+[10-01-2022 14:14:50.742] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:14:50.742] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:14:50.742] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:14:50.742] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:14:50.763] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:14:50.763] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:14:50.764] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:14:50.764] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:15:10.838] (TPSManager) TPS dropped to 3.988035892323031
+[10-01-2022 14:15:10.839] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:15:10.839] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:15:10.839] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:15:10.839] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:15:10.851] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:15:10.851] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:15:10.851] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:15:10.852] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:15:32.339] (TPSManager) TPS dropped to 4.069175991861648
+[10-01-2022 14:15:32.339] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:15:32.339] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:15:32.339] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:15:32.339] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:15:32.357] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:15:32.357] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:15:32.358] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:15:32.358] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:16:07.309] (TPSManager) TPS dropped to 4.4692737430167595
+[10-01-2022 14:16:07.309] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:16:07.309] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:16:07.309] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:16:07.309] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:16:07.320] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:16:07.321] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:16:07.321] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:16:07.321] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:17:39.774] (TPSManager) TPS dropped to 4.434589800443459
+[10-01-2022 14:17:39.774] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:17:39.774] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:17:39.774] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:17:39.774] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:17:39.787] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:17:39.787] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:17:39.788] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:17:39.788] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:19:12.263] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:1
+[10-01-2022 14:19:12.313] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:2
+[10-01-2022 14:19:12.463] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:19.9] VL:3
+[10-01-2022 14:19:14.058] (TPSManager) TPS dropped to 4.484304932735426
+[10-01-2022 14:19:14.059] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:19:14.059] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:19:14.059] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:19:14.059] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:19:14.071] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:19:14.071] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:19:14.072] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:19:14.072] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:19:39.754] gatohost failed NoFall: Claimed to be on the ground midair [ping:124 tps:20.0] VL:4
+[10-01-2022 14:19:45.507] gatohost failed NoFall: Claimed to be on the ground midair [ping:117 tps:20.0] VL:5
+[10-01-2022 14:19:45.556] gatohost failed NoFall: Claimed to be on the ground midair [ping:117 tps:20.0] VL:6
+[10-01-2022 14:19:45.707] gatohost failed NoFall: Claimed to be on the ground midair [ping:117 tps:20.0] VL:7
+[10-01-2022 14:19:49.358] gatohost failed NoFall: Claimed to be on the ground midair [ping:115 tps:20.0] VL:8
+[10-01-2022 14:20:00.285] (TPSManager) TPS dropped to 4.324324324324325
+[10-01-2022 14:20:00.285] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:20:00.285] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:20:00.285] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:20:00.285] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:20:00.296] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:20:00.296] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:20:00.297] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:20:00.297] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:20:42.505] (TPSManager) TPS dropped to 4.77326968973747
+[10-01-2022 14:20:42.505] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:20:42.505] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:20:42.505] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:20:42.505] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:20:42.568] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:20:42.568] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:20:42.569] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:20:42.569] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:21:14.791] gatohost failed NoFall: Claimed to be on the ground midair [ping:111 tps:20.0] VL:9
+[10-01-2022 14:21:15.291] gatohost failed NoFall: Claimed to be on the ground midair [ping:111 tps:19.9] VL:10
+[10-01-2022 14:21:17.891] gatohost failed NoFall: Claimed to be on the ground midair [ping:112 tps:20.0] VL:11
+[10-01-2022 14:21:17.943] gatohost failed NoFall: Claimed to be on the ground midair [ping:112 tps:20.0] VL:12
+[10-01-2022 14:21:18.492] (Punisher) ->movement.NoFall: Dispatching command aacstaffnotify gatohost is suspected for NoFall hacks (ping = 111, tps = 20.0)
+[10-01-2022 14:21:20.242] gatohost failed NoFall: Claimed to be on the ground midair [ping:111 tps:20.0] VL:13
+[10-01-2022 14:21:20.293] gatohost failed NoFall: Claimed to be on the ground midair [ping:111 tps:20.0] VL:14
+[10-01-2022 14:21:20.444] gatohost failed NoFall: Claimed to be on the ground midair [ping:111 tps:19.7] VL:15
+[10-01-2022 14:21:21.731] (TPSManager) TPS dropped to 3.875968992248062
+[10-01-2022 14:21:21.731] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:21:21.731] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:21:21.731] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:21:21.731] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:21:21.747] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:21:21.747] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:21:21.748] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:21:21.748] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:21:37.288] gatohost failed NoFall: Claimed to be on the ground midair [ping:113 tps:20.0] VL:16
+[10-01-2022 14:21:43.339] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:19.9] VL:17
+[10-01-2022 14:21:43.787] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:18
+[10-01-2022 14:21:43.837] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:20.0] VL:19
+[10-01-2022 14:21:43.988] gatohost failed NoFall: Claimed to be on the ground midair [ping:110 tps:19.9] VL:20
+[10-01-2022 14:21:47.737] gatohost failed NoFall: Claimed to be on the ground midair [ping:113 tps:20.0] VL:21
+[10-01-2022 14:21:53.592] gatohost failed NoFall: Claimed to be on the ground midair [ping:111 tps:19.9] VL:22
+[10-01-2022 14:21:53.641] gatohost failed NoFall: Claimed to be on the ground midair [ping:111 tps:20.0] VL:23
+[10-01-2022 14:21:53.790] gatohost failed NoFall: Claimed to be on the ground midair [ping:111 tps:20.0] VL:24
+[10-01-2022 14:22:17.827] (TPSManager) TPS dropped to 3.3812341504649197
+[10-01-2022 14:22:17.828] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:22:17.828] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:22:17.828] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:22:17.828] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:22:17.889] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:22:17.889] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:22:17.890] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:22:17.890] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:22:26.125] (TPSManager) TPS dropped to 3.9682539682539684
+[10-01-2022 14:22:26.125] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:22:26.125] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:22:26.125] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:22:26.125] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:22:26.140] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:22:26.140] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:22:26.141] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:22:26.141] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:22:34.696] gatohost failed NoFall: Claimed to be on the ground midair [ping:115 tps:20.0] VL:25
+[10-01-2022 14:23:21.396] gatohost failed NoFall: Claimed to be on the ground midair [ping:117 tps:19.9] VL:26
+[10-01-2022 14:23:43.566] (TPSManager) TPS dropped to 4.499437570303712
+[10-01-2022 14:23:43.566] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:23:43.566] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:23:43.566] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:23:43.566] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:23:43.578] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:23:43.579] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:23:43.579] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:23:43.579] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:24:05.556] gatohost failed NoFall: Claimed to be on the ground midair [ping:152 tps:20.0] VL:27
+[10-01-2022 14:24:05.606] gatohost failed NoFall: Claimed to be on the ground midair [ping:152 tps:20.0] VL:28
+[10-01-2022 14:24:05.655] gatohost failed NoFall: Claimed to be on the ground midair [ping:152 tps:20.0] VL:29
+[10-01-2022 14:24:05.906] gatohost failed NoFall: Claimed to be on the ground midair [ping:152 tps:19.9] VL:30
+[10-01-2022 14:24:05.956] gatohost failed NoFall: Claimed to be on the ground midair [ping:152 tps:19.9] VL:31
+[10-01-2022 14:24:06.255] (Punisher) ->movement.NoFall: Dispatching command aackick gatohost no fall or fly
+[10-01-2022 14:24:07.599] (TPSManager) TPS dropped to 4.744958481613286
+[10-01-2022 14:24:07.600] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:24:07.600] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:24:07.600] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:24:07.600] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:24:07.615] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:24:07.616] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:24:07.616] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:24:07.616] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:24:20.365] gatohost failed NoFall: Claimed to be on the ground midair [ping:0 tps:20.0] VL:1
+[10-01-2022 14:24:20.416] gatohost failed NoFall: Claimed to be on the ground midair [ping:0 tps:19.9] VL:2
+[10-01-2022 14:24:23.239] (TPSManager) TPS dropped to 4.3431053203040175
+[10-01-2022 14:24:23.240] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:24:23.240] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:24:23.240] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:24:23.240] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:24:23.252] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:24:23.253] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:24:23.253] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:24:23.253] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:25:02.529] (TPSManager) TPS dropped to 3.4692107545533393
+[10-01-2022 14:25:02.529] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:25:02.529] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:25:02.529] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:25:02.529] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:25:02.541] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:25:02.541] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:25:02.541] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:25:02.541] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:26:27.627] (TPSManager) TPS dropped to 3.9215686274509802
+[10-01-2022 14:26:27.627] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:26:27.627] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:26:27.627] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:26:27.627] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:26:27.645] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:26:27.645] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:26:27.646] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:26:27.646] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:26:47.800] (TPSManager) TPS dropped to 4.012036108324975
+[10-01-2022 14:26:47.801] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:26:47.801] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:26:47.801] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:26:47.801] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:26:47.819] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:26:47.819] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:26:47.819] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:26:47.819] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:27:41.832] (TPSManager) TPS dropped to 3.902439024390244
+[10-01-2022 14:27:41.832] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:27:41.832] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:27:41.832] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:27:41.833] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:27:41.847] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:27:41.847] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:27:41.847] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:27:41.848] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:32:06.180] (TPSManager) TPS dropped to 3.3030553261767133
+[10-01-2022 14:32:06.181] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:32:06.181] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:32:06.181] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:32:06.181] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:32:06.192] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:32:06.192] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:32:06.192] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:32:06.193] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:32:14.997] (TPSManager) TPS dropped to 3.51493848857645
+[10-01-2022 14:32:14.997] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:32:14.997] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:32:14.997] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:32:14.997] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:32:16.331] (TPSManager) TPS dropped to 3.257328990228013
+[10-01-2022 14:32:17.611] (TPSManager) TPS dropped to 3.5056967572304996
+[10-01-2022 14:32:19.934] (TPSManager) TPS dropped to 3.3812341504649197
+[10-01-2022 14:32:23.366] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:32:23.366] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:32:23.366] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:32:23.367] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:32:28.992] (TPSManager) TPS dropped to 3.7842951750236518
+[10-01-2022 14:32:28.992] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:32:28.992] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:32:28.992] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:32:28.992] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:32:32.401] (TPSManager) TPS dropped to 3.3840947546531304
+[10-01-2022 14:32:33.774] (TPSManager) TPS dropped to 3.626473254759746
+[10-01-2022 14:32:37.120] (TPSManager) TPS dropped to 3.9177277179236043
+[10-01-2022 14:32:38.430] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:32:38.430] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:32:38.430] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:32:38.430] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:32:40.569] (TPSManager) TPS dropped to 4.077471967380224
+[10-01-2022 14:32:40.570] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:32:40.570] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:32:40.570] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:32:40.570] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:32:40.791] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:32:40.791] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:32:40.791] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:32:40.791] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:32:48.089] (TPSManager) TPS dropped to 1.8099547511312217
+[10-01-2022 14:32:48.090] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:32:48.090] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:32:48.090] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:32:48.090] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:32:52.628] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:32:52.628] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:32:52.629] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:32:52.629] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:32:55.107] (TPSManager) TPS dropped to 3.6330608537693005
+[10-01-2022 14:32:55.107] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:32:55.107] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:32:55.107] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:32:55.107] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:32:56.504] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:32:56.504] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:32:56.504] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:32:56.504] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:33:03.512] (TPSManager) TPS dropped to 1.8281535648994516
+[10-01-2022 14:33:03.512] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:33:03.512] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:33:03.512] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:33:03.512] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:33:07.130] (TPSManager) TPS dropped to 3.4100596760443307
+[10-01-2022 14:33:10.718] (TPSManager) TPS dropped to 3.4512510785159622
+[10-01-2022 14:33:15.394] (TPSManager) TPS dropped to 3.1055900621118013
+[10-01-2022 14:33:18.902] (TPSManager) TPS dropped to 3.6429872495446265
+[10-01-2022 14:33:21.229] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:33:21.230] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:33:21.230] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:33:21.230] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:33:23.513] (TPSManager) TPS dropped to 3.766478342749529
+[10-01-2022 14:33:23.514] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:33:23.514] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:33:23.514] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:33:23.514] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:33:23.709] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:33:23.709] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:33:23.710] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:33:23.710] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:33:27.488] (TPSManager) TPS dropped to 3.1720856463124503
+[10-01-2022 14:33:27.488] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:33:27.488] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:33:27.488] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:33:27.488] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:33:27.742] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:33:27.742] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:33:27.742] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:33:27.743] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:33:32.018] (TPSManager) TPS dropped to 3.717472118959108
+[10-01-2022 14:33:32.019] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:33:32.019] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:33:32.019] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:33:32.019] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:33:34.362] (TPSManager) TPS dropped to 3.7735849056603774
+[10-01-2022 14:33:36.697] (TPSManager) TPS dropped to 3.51493848857645
+[10-01-2022 14:33:40.067] (TPSManager) TPS dropped to 3.663003663003663
+[10-01-2022 14:33:41.319] (TPSManager) TPS dropped to 3.7071362372567194
+[10-01-2022 14:33:45.702] (TPSManager) TPS dropped to 3.6231884057971016
+[10-01-2022 14:33:46.974] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:33:46.974] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:33:46.975] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:33:46.975] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:34:57.375] (TPSManager) TPS dropped to 3.838771593090211
+[10-01-2022 14:34:57.376] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:34:57.376] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:34:57.376] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:34:57.376] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:34:57.387] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:34:57.387] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:34:57.387] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:34:57.387] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:37:09.160] (TPSManager) TPS dropped to 1.187648456057007
+[10-01-2022 14:37:09.160] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:37:09.160] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:37:09.161] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:37:09.161] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:37:09.197] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:37:09.197] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:37:09.198] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:37:09.198] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:37:19.998] (TPSManager) TPS dropped to 3.8461538461538463
+[10-01-2022 14:37:19.998] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:37:19.998] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:37:19.998] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:37:19.998] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:37:20.008] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:37:20.008] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:37:20.008] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:37:20.009] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:38:47.121] (TPSManager) TPS dropped to 3.988035892323031
+[10-01-2022 14:38:47.121] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:38:47.121] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:38:47.121] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:38:47.121] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:38:47.135] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:38:47.135] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:38:47.135] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:38:47.136] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:40:46.057] (TPSManager) TPS dropped to 18.264840182648403
+[10-01-2022 14:40:52.526] (TPSManager) TPS dropped to 4.597701149425287
+[10-01-2022 14:40:52.527] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:40:52.527] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:40:52.527] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:40:52.527] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:40:52.587] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:40:52.587] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:40:52.588] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:40:52.588] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:41:38.166] (TPSManager) TPS dropped to 4.102564102564102
+[10-01-2022 14:41:38.166] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:41:38.166] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:41:38.166] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:41:38.166] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:41:38.177] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:41:38.177] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:41:38.178] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:41:38.178] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:43:09.240] (TPSManager) TPS dropped to 4.1365046535677354
+[10-01-2022 14:43:09.240] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:43:09.240] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:43:09.240] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:43:09.240] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:43:09.250] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:43:09.250] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:43:09.251] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:43:09.251] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:44:08.298] (TPSManager) TPS dropped to 4.77326968973747
+[10-01-2022 14:44:08.298] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:44:08.298] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:44:08.298] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:44:08.298] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:44:08.408] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:44:08.408] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:44:08.408] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:44:08.408] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:44:54.574] (TPSManager) TPS dropped to 4.381161007667032
+[10-01-2022 14:44:54.574] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:44:54.575] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:44:54.575] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:44:54.575] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:44:54.583] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:44:54.583] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:44:54.584] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:44:54.584] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:46:49.903] (TPSManager) TPS dropped to 3.4602076124567476
+[10-01-2022 14:46:49.904] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:46:49.904] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:46:49.904] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:46:49.904] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:46:49.914] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:46:49.914] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:46:49.914] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:46:49.915] (CheckManager) Enabled check combat.Reach
+[10-01-2022 14:53:53.816] (TPSManager) TPS dropped to 3.8240917782026767
+[10-01-2022 14:53:53.817] (CheckManager) Disabled check movement.BadPackets
+[10-01-2022 14:53:53.817] (CheckManager) Disabled check combat.FightSpeed
+[10-01-2022 14:53:53.817] (CheckManager) Disabled check combat.Reach
+[10-01-2022 14:53:53.817] (CheckManager) Disabled check combat.Angle
+[10-01-2022 14:53:53.827] (CheckManager) Enabled check movement.BadPackets
+[10-01-2022 14:53:53.827] (CheckManager) Enabled check combat.Angle
+[10-01-2022 14:53:53.827] (CheckManager) Enabled check combat.FightSpeed
+[10-01-2022 14:53:53.827] (CheckManager) Enabled check combat.Reach

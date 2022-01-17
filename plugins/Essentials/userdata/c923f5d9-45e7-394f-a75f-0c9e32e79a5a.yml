@@ -1,0 +1,22 @@
+lastAccountName: broppin
+timestamps:
+  login: 1642156509016
+  kits:
+    hvh: 1642156612984
+  lastteleport: 1642159533567
+  logout: 1642159744040
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 1177.0301624451872
+  y: 69.0
+  z: -243.7290260797498
+  yaw: 262.22137
+  pitch: 27.236864
+logoutlocation:
+  world: world
+  x: 322.4986135826711
+  y: 3.0
+  z: 22.19169164639239
+  yaw: 185.40015
+  pitch: 63.450016
